@@ -55,6 +55,7 @@ ENV["GKS_ENCODING"]="utf8"
 | Approximate order statistics                 | [`OrderStats`](@ref)                                         |
 | Count for each unique value                  | [`CountMap`](@ref)                                           |
 | Approximate CDF                              | [`OrderStats`](@ref)                                         |
+| Dirichlet process mixture model              | [`DPMM`](@ref)                                               |
 
 ## Parametric Density Estimation
 
